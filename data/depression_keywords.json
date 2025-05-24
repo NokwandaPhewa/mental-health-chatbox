@@ -1,0 +1,6 @@
+{
+    "emotional": ["sad", "depressed", "hopeless", "empty", "lonely"],
+    "behavioral": ["cant sleep", "no energy", "isolate", "cant get up"],
+    "cognitive": ["worthless", "guilty", "failure", "useless"],
+    "crisis": ["suicid", "kill myself", "end it all", "want to die", "not worth living"]
+}

@@ -1,0 +1,10 @@
+ {
+    "crisis_hotlines": [
+        {
+            "name": "National Suicide Prevention Lifeline",
+            "phone": "988",
+            "description": "24/7 free and confidential support",
+            "website": "https://suicidepreventionlifeline.org"
+        }
+    ]
+}
